@@ -1,6 +1,6 @@
 # microservice-sample-container
 
-Download and run 
+Download or clone this repository and run the command below
 
 ```docker docker compose up```
 
